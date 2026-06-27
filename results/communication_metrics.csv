@@ -1,0 +1,5 @@
+agent,condition,prediction_mse
+agent_A,no_communication_partial_model,0.0002104197181664048
+agent_B,no_communication_partial_model,1.7265470631911763e-05
+agent_C,no_communication_partial_model,2.6717369606830715e-05
+shared_group,communication_shared_model,6.534647561346066e-05

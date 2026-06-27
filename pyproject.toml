@@ -1,0 +1,18 @@
+[project]
+name = "multi-agent-causal-communication"
+version = "0.1.0"
+description = "A research-oriented multi-agent system for partial observation, communication, shared causal world models, message entropy, and theory-of-mind-style prediction."
+requires-python = ">=3.10"
+authors = [
+  { name = "Hasegawa Ichiro" }
+]
+readme = "README.md"
+license = { text = "MIT" }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
