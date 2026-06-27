@@ -79,8 +79,3 @@ results/theory_of_mind_error.png
 results/multi_agent_rollout.gif
 ```
 
-## Suggested GitHub description
-
-```text
-Research implementation of multi-agent causal communication with partial observation, message entropy, shared world models, and theory-of-mind-style prediction.
-```
